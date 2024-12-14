@@ -1,0 +1,6 @@
+topic-information :
+  topics:
+    - name: test-topic
+      location: local
+      worker:
+        - scoreWorker
